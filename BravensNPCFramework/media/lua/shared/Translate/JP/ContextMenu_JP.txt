@@ -1,0 +1,9 @@
+ContextMenu_JP = {
+    ContextMenu_Equip = "アイテムを装備する ",
+	ContextMenu_Give = "アイテムをあげる ",
+	ContextMenu_Take = "アイテムを取る ",
+	ContextMenu_CombatStance = "戦闘態勢 ",
+    ContextMenu_Defensive = "攻撃 ",
+    ContextMenu_Offensive = "守備的 ",
+	ContextMenu_Balanced = "バランス",
+}

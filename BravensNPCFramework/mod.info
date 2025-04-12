@@ -1,0 +1,8 @@
+name=Braven's NPC Framework modify
+id=BB_NPC_Framework_modify
+poster=poster.png
+icon=icon.png
+authors=BitBraven_modify
+modversion=1.8.0
+description=This mod is BitBraven's Framework for creating and managing NPCs. It is REQUIRED by ALL my NPC mods and MUST be ENABLED for them to work. <LINE> 
+description=In order to enjoy the zombie defeat mod, I pondered for a while and started modifying it.

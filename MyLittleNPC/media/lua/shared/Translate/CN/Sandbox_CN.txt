@@ -1,0 +1,110 @@
+Sandbox_CN = {
+	Sandbox_BB_MyLittleNPCs = "我的小家伙们",
+    Sandbox_BB_MyLittleNPCs_CloseDoors = "自动关门",
+    Sandbox_BB_MyLittleNPCs_CloseDoors_tooltip = "切换小家伙们是否会自动关闭身后的门。",
+	
+    Sandbox_BB_MyLittleNPCs_setGod = "启用无敌",
+    Sandbox_BB_MyLittleNPCs_setGod_tooltip = "切换小家伙们是否无敌。",
+	
+    Sandbox_BB_MyLittleNPCs_canFlee = "启用逃跑",
+    Sandbox_BB_MyLittleNPCs_canFlee_tooltip = "切换小家伙们是否在危险时逃跑，关闭逃跑则启用投降。",
+	
+    Sandbox_BB_MyLittleNPCs_Acceptable_numbers = "可接受几P",
+    Sandbox_BB_MyLittleNPCs_Acceptable_numbers_tooltip = "小家伙们在可以接受的数目下触发异性投降。\n=0：尝试靠近玩家，>0：投降走向它们，=99：不能自已\n警告：数量超过2，有超低概率闪退风险\n数量超过4，有中概率崩溃风险\n导致原存档npc装备丢失（新版已做平衡，崩溃概率极低）",
+	
+    Sandbox_BB_MyLittleNPCs_superzombie = "超吊僵尸",
+    Sandbox_BB_MyLittleNPCs_superzombie_tooltip = "准备投降时，是否直接传送给僵尸（立即进入动画：需要defeat mod），而不是慢慢走过去",
+	
+    Sandbox_BB_MyLittleNPCs_infiniteAmmo = "无限弹药",
+    Sandbox_BB_MyLittleNPCs_infiniteAmmo_tooltip = "背包要有一颗弹药",
+	
+    Sandbox_BB_MyLittleNPCs_ignoreBites = "忽略僵尸咬伤",
+    Sandbox_BB_MyLittleNPCs_ignoreBites_tooltip = "忽略僵尸咬伤",
+	
+    Sandbox_BB_MyLittleNPCs_isTough = "是否为坚韧",
+    Sandbox_BB_MyLittleNPCs_isTough_tooltip = "是否为坚韧",
+	
+    Sandbox_BB_MyLittleNPCs_regenHealth = "是否自动恢复健康",
+    Sandbox_BB_MyLittleNPCs_regenHealth_tooltip = "是否自动恢复健康",
+							 
+    Sandbox_BB_MyLittleNPCs_fasterHealing = "是否加速恢复",
+    Sandbox_BB_MyLittleNPCs_fasterHealing_tooltip = "是否加速恢复",
+							 
+    Sandbox_BB_MyLittleNPCs_noNeeds = "是否没有需求",
+    Sandbox_BB_MyLittleNPCs_noNeeds_tooltip = "是否没有需求",
+	
+    Sandbox_BB_MyLittleNPCs_test = "测试函数",
+    Sandbox_BB_MyLittleNPCs_test_tooltip = "当前测试：\n（随意投降）多个npc向任意它投降。源：仅对目标为自己或玩家的它投降",
+							 
+    Sandbox_BB_MyLittleNPCs_knockDownHealth = "虚弱血线",
+    Sandbox_BB_MyLittleNPCs_knockDownHealth_tooltip = "=99为刚一受伤就被推坐在地上",
+	
+    Sandbox_BB_MyLittleNPCs_knockDowncooldown = "虚弱恢复冷却",
+    Sandbox_BB_MyLittleNPCs_knockDowncooldown_tooltip = "单位秒，600正常为现实10分钟，会因帧率变化和游戏加速减少",
+	
+    Sandbox_BB_MyLittleNPCs_isGod = "虚弱倒地无敌吗",
+    Sandbox_BB_MyLittleNPCs_isGod_tooltip = "重要角色虚弱倒地后会无敌吗",
+	
+	
+	
+	
+	
+	
+	
+	
+    Sandbox_BB_MyLittleAlice_forceStop = "强制停止行动",
+    Sandbox_BB_MyLittleAlice_forceStop_tooltip = "切换小爱丽丝是否开始不跟随玩家。",
+	
+    Sandbox_BB_MyLittleBob_forceStop = "强制停止行动",
+    Sandbox_BB_MyLittleBob_forceStop_tooltip = "切换小鲍勃......",
+	
+    Sandbox_BB_MyLittleBraven_forceStop = "强制停止行动",
+    Sandbox_BB_MyLittleBraven_forceStop_tooltip = "切换小布雷文......",
+	
+    Sandbox_BB_MyLittleEva_forceStop = "强制停止行动",
+    Sandbox_BB_MyLittleEva_forceStop_tooltip = "切换小伊娃......",
+	
+    Sandbox_BB_MyLittleMoehling_forceStop = "强制停止行动",
+    Sandbox_BB_MyLittleMoehling_forceStop_tooltip = "切换小莫林......",
+	
+    Sandbox_BB_MyLittleSarah_forceStop = "强制停止行动",
+    Sandbox_BB_MyLittleSarah_forceStop_tooltip = "切换小莎拉......",
+	
+
+    Sandbox_BB_MyLittleAlice_isEssential = "是重要角色",
+    Sandbox_BB_MyLittleAlice_isEssential_tooltip = "切换小爱丽丝是否是重要角色。",
+	
+    Sandbox_BB_MyLittleBob_isEssential = "是重要角色",
+    Sandbox_BB_MyLittleBob_isEssential_tooltip = "切换小鲍勃......",
+	
+    Sandbox_BB_MyLittleBraven_isEssential = "是重要角色",
+    Sandbox_BB_MyLittleBraven_isEssential_tooltip = "切换小布雷文......",
+	
+    Sandbox_BB_MyLittleEva_isEssential = "是重要角色",
+    Sandbox_BB_MyLittleEva_isEssential_tooltip = "切换小伊娃......",
+	
+    Sandbox_BB_MyLittleMoehling_isEssential = "是重要角色",
+    Sandbox_BB_MyLittleMoehling_isEssential_tooltip = "切换小莫林......",
+	
+    Sandbox_BB_MyLittleSarah_isEssential = "是重要角色",
+    Sandbox_BB_MyLittleSarah_isEssential_tooltip = "切换小莎拉......",
+	
+	
+    Sandbox_BB_MyLittleAlice_outfitName = "初始服装",
+    Sandbox_BB_MyLittleAlice_outfitName_tooltip = "确保小爱丽丝出现闪退等意外事故时不会全裸，请使用源文件或任意衣物mod下script.item字符串。\n如105、wz1、Braven_Mask等，当前只能写一件",
+	
+    Sandbox_BB_MyLittleBob_outfitName = "初始服装",
+    Sandbox_BB_MyLittleBob_outfitName_tooltip = "确保小鲍勃......",
+	
+    Sandbox_BB_MyLittleBraven_outfitName = "初始服装",
+    Sandbox_BB_MyLittleBraven_outfitName_tooltip = "确保小布雷文......",
+	
+    Sandbox_BB_MyLittleEva_outfitName = "初始服装",
+    Sandbox_BB_MyLittleEva_outfitName_tooltip = "确保小伊娃......",
+	
+    Sandbox_BB_MyLittleMoehling_outfitName = "初始服装",
+    Sandbox_BB_MyLittleMoehling_outfitName_tooltip = "确保小莫林......",
+	
+    Sandbox_BB_MyLittleSarah_outfitName = "初始服装",
+    Sandbox_BB_MyLittleSarah_outfitName_tooltip = "确保小莎拉......",
+}

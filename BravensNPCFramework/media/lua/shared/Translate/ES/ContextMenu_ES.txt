@@ -1,0 +1,9 @@
+ContextMenu_ES = {
+    ContextMenu_Equip = "Equipar un elemento ",
+	ContextMenu_Give = "Dar un elemento ",
+	ContextMenu_Take = "Tomar un elemento ",
+	ContextMenu_CombatStance = "Postura de combate ",
+    ContextMenu_Defensive = "Ofensiva ",
+    ContextMenu_Offensive = "Defensiva ",
+	ContextMenu_Balanced = "Equilibrada",
+}

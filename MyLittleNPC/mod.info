@@ -1,0 +1,11 @@
+name=My Little NPCs
+id=BB_MyLittleNPCs
+require=BB_Outfit
+require=BB_NPC_Framework_modify
+poster=poster.png
+icon=icon.png
+modversion=1.6.0
+description=This mod adds NPCs to the game as a companion NPC! <LINE> 
+description=该mod修改MyLittleBraven_NPC后捆绑了5个额外换名人物。 <LINE> 
+description=使用之前，请仔细阅读！ <LINE> 
+

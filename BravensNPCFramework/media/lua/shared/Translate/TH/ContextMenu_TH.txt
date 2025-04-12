@@ -1,0 +1,9 @@
+ContextMenu_TH = {
+    ContextMenu_Equip = "สวมใส่ไอเทม ",
+	ContextMenu_Give = "ให้รายการ ",
+	ContextMenu_Take = "รับรายการ ",
+	ContextMenu_CombatStance = "ท่าทางการต่อสู้ ",
+    ContextMenu_Defensive = "ก้าวร้าว ",
+    ContextMenu_Offensive = "การป้องกัน ",
+	ContextMenu_Balanced = "สมดุล",
+}

@@ -1,0 +1,9 @@
+ContextMenu_PTBR = {
+    ContextMenu_Equip = "Equipar um item",
+	ContextMenu_Give = "Dê um item",
+	ContextMenu_Take = "Pegue um item",
+	ContextMenu_CombatStance = "Postura de Combate ",
+    ContextMenu_Defensive = "Ofensiva ",
+    ContextMenu_Offensive = "Defensiva ",
+	ContextMenu_Balanced = "Equilibrada",
+}

@@ -1,0 +1,9 @@
+ContextMenu_RU = {
+    ContextMenu_Equip = "Экипировать предмет ",
+	ContextMenu_Give = "Дайте предмет ",
+	ContextMenu_Take = "Взять предмет ",
+	ContextMenu_CombatStance = "Боевая позиция ",
+    ContextMenu_Defensive = "Оскорбительный ",
+    ContextMenu_Offensive = "Оборонительный ",
+	ContextMenu_Balanced = "Сбалансированная",
+}

@@ -1,0 +1,277 @@
+VERSION = 1,
+
+option BB_MyLittleNPCs.CloseDoors
+{
+    type = boolean,
+    default = true,
+    page = BB_MyLittleNPCs,
+    translation = BB_MyLittleNPCs_CloseDoors,
+}
+option BB_MyLittleNPCs.setGod
+{
+    type = boolean,
+    default = true,
+    page = BB_MyLittleNPCs,
+    translation = BB_MyLittleNPCs_setGod,
+}
+option BB_MyLittleNPCs.canFlee
+{
+    type = boolean,
+    default = false,
+    page = BB_MyLittleNPCs,
+    translation = BB_MyLittleNPCs_canFlee,
+}
+option BB_MyLittleNPCs.Acceptable_numbers
+{
+    type = integer,
+	min = 0, max = 99,
+    default = 3,
+    page = BB_MyLittleNPCs,
+    translation = BB_MyLittleNPCs_Acceptable_numbers,
+}
+option BB_MyLittleNPCs.superzombie
+{
+    type = boolean,
+    default = false,
+    page = BB_MyLittleNPCs,
+    translation = BB_MyLittleNPCs_superzombie,
+}
+option BB_MyLittleNPCs.knockDownHealth
+{
+    type = integer,
+	min = 15, max = 99,
+    default = 15,
+    page = BB_MyLittleNPCs,
+    translation = BB_MyLittleNPCs_knockDownHealth,
+}
+option BB_MyLittleNPCs.knockDowncooldown
+{
+    type = integer,
+	min = 10, max = 600,
+    default = 60,
+    page = BB_MyLittleNPCs,
+    translation = BB_MyLittleNPCs_knockDowncooldown,
+}
+option BB_MyLittleNPCs.isGod
+{
+    type = boolean,
+    default = true,
+    page = BB_MyLittleNPCs,
+    translation = BB_MyLittleNPCs_isGod,
+}
+option BB_MyLittleNPCs.infiniteAmmo
+{
+    type = boolean,
+    default = false,
+    page = BB_MyLittleNPCs,
+    translation = BB_MyLittleNPCs_infiniteAmmo,
+}
+option BB_MyLittleNPCs.ignoreBites
+{
+    type = boolean,
+    default = true,
+    page = BB_MyLittleNPCs,
+    translation = BB_MyLittleNPCs_ignoreBites,
+}
+option BB_MyLittleNPCs.isTough
+{
+    type = boolean,
+    default = true,
+    page = BB_MyLittleNPCs,
+    translation = BB_MyLittleNPCs_isTough,
+}
+option BB_MyLittleNPCs.regenHealth
+{
+    type = boolean,
+    default = true,
+    page = BB_MyLittleNPCs,
+    translation = BB_MyLittleNPCs_regenHealth,
+}
+option BB_MyLittleNPCs.fasterHealing
+{
+    type = boolean,
+    default = true,
+    page = BB_MyLittleNPCs,
+    translation = BB_MyLittleNPCs_fasterHealing,
+}
+option BB_MyLittleNPCs.noNeeds
+{
+    type = boolean,
+    default = true,
+    page = BB_MyLittleNPCs,
+    translation = BB_MyLittleNPCs_noNeeds,
+}
+
+
+
+option BB_MyLittleAlice.forceStop
+{
+    type = boolean,
+    default = false,
+    page = BB_MyLittleNPCs,
+    translation = BB_MyLittleAlice_forceStop,
+}
+option BB_MyLittleBob.forceStop
+{
+    type = boolean,
+    default = false,
+    page = BB_MyLittleNPCs,
+    translation = BB_MyLittleBob_forceStop,
+}
+option BB_MyLittleBraven.forceStop
+{
+    type = boolean,
+    default = false,
+    page = BB_MyLittleNPCs,
+    translation = BB_MyLittleBraven_forceStop,
+}
+option BB_MyLittleEva.forceStop
+{
+    type = boolean,
+    default = false,
+    page = BB_MyLittleNPCs,
+    translation = BB_MyLittleEva_forceStop,
+}
+option BB_MyLittleMoehling.forceStop
+{
+    type = boolean,
+    default = false,
+    page = BB_MyLittleNPCs,
+    translation = BB_MyLittleMoehling_forceStop,
+}
+option BB_MyLittleSarah.forceStop
+{
+    type = boolean,
+    default = false,
+    page = BB_MyLittleNPCs,
+    translation = BB_MyLittleSarah_forceStop,
+}
+
+
+option BB_MyLittleAlice.isEssential
+{
+    type = boolean,
+    default = false,
+    page = BB_MyLittleNPCs,
+    translation = BB_MyLittleAlice_isEssential,
+}
+option BB_MyLittleBob.isEssential
+{
+    type = boolean,
+    default = false,
+    page = BB_MyLittleNPCs,
+    translation = BB_MyLittleBob_isEssential,
+}
+option BB_MyLittleBraven.isEssential
+{
+    type = boolean,
+    default = true,
+    page = BB_MyLittleNPCs,
+    translation = BB_MyLittleBraven_isEssential,
+}
+option BB_MyLittleEva.isEssential
+{
+    type = boolean,
+    default = false,
+    page = BB_MyLittleNPCs,
+    translation = BB_MyLittleEva_isEssential,
+}
+option BB_MyLittleMoehling.isEssential
+{
+    type = boolean,
+    default = false,
+    page = BB_MyLittleNPCs,
+    translation = BB_MyLittleMoehling_isEssential,
+}
+option BB_MyLittleSarah.isEssential
+{
+    type = boolean,
+    default = false,
+    page = BB_MyLittleNPCs,
+    translation = BB_MyLittleSarah_isEssential,
+}
+
+
+option BB_MyLittleAlice.outfitName
+{
+    type = string,
+    default = ,
+    page = BB_MyLittleNPCs,
+    translation = BB_MyLittleAlice_outfitName,
+}
+option BB_MyLittleBob.outfitName
+{
+    type = string,
+    default = ,
+    page = BB_MyLittleNPCs,
+    translation = BB_MyLittleBob_outfitName,
+}
+option BB_MyLittleBraven.outfitName
+{
+    type = string,
+    default = ,
+    page = BB_MyLittleNPCs,
+    translation = BB_MyLittleBraven_outfitName,
+}
+option BB_MyLittleEva.outfitName
+{
+    type = string,
+    default = ,
+    page = BB_MyLittleNPCs,
+    translation = BB_MyLittleEva_outfitName,
+}
+option BB_MyLittleMoehling.outfitName
+{
+    type = string,
+    default = ,
+    page = BB_MyLittleNPCs,
+    translation = BB_MyLittleMoehling_outfitName,
+}
+option BB_MyLittleSarah.outfitName
+{
+    type = string,
+    default = ,
+    page = BB_MyLittleNPCs,
+    translation = BB_MyLittleSarah_outfitName,
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+option BB_MyLittleNPCs.test
+{
+    type = boolean,
+    default = false,
+    page = BB_MyLittleNPCs,
+    translation = BB_MyLittleNPCs_test,
+}

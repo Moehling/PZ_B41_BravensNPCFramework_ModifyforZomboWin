@@ -1,0 +1,9 @@
+ContextMenu_PL = {
+    ContextMenu_Equip = "Wyposa¿ przedmiot ",
+	ContextMenu_Give = "Daj przedmiot ",
+	ContextMenu_Take = "WeŸ przedmiot ",
+	ContextMenu_CombatStance = "Postawa bojowa ",
+    ContextMenu_Defensive = "Ofensywa ",
+    ContextMenu_Offensive = "Obronny ",
+	ContextMenu_Balanced = "Zrównowa¿ona",
+}

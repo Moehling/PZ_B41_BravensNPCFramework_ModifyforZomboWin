@@ -1,0 +1,9 @@
+ContextMenu_DE = {
+    ContextMenu_Equip = "Rüste einen Gegenstand aus ",
+	ContextMenu_Give = "Geben Sie einen Artikel ",
+	ContextMenu_Take = "Nimm einen Gegenstand ",
+	ContextMenu_CombatStance = "Kampfhaltung ",
+    ContextMenu_Defensive = "Beleidigend ",
+    ContextMenu_Offensive = "Defensive ",
+	ContextMenu_Balanced = "Ausgewogene",
+}

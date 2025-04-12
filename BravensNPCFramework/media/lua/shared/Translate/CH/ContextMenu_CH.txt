@@ -1,0 +1,9 @@
+ContextMenu_CH = {
+    ContextMenu_Equip = "裝備一個物品 ",
+	ContextMenu_Give = "給一個項目 ",
+	ContextMenu_Take = "拿一個物品 ",
+	ContextMenu_CombatStance = "戰鬥姿態 ",
+    ContextMenu_Defensive = "進攻 ",
+    ContextMenu_Offensive = "防守型 ",
+	ContextMenu_Balanced = "平衡",
+}
