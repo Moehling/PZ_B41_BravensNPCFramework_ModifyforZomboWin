@@ -130,7 +130,6 @@ MyLittleSave.restoreSettings = function ()
         npcData.knockDownHealth = npcData.knockDownHealth or 15
         npcData.knockDowncooldown = npcData.knockDowncooldown or 60
         npcData.needCloseDoors = npcData.needCloseDoors or false
-        npcData.uniqueID = generateUniqueID()
 
         local npcInv = npcData.npc:getInventory()
         local stashCoords = { X = npcData.stashCoordsX, Y = npcData.stashCoordsY}
